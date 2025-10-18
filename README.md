@@ -6,9 +6,9 @@
         <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cs&theme=dark"/>
         <h2>My Stats</h2>
         <!--My Stats-->
-        <img src="https://github-readme-stats.vercel.app/api?username=giane007&theme=red&bg_color=0d1117&show_icons=true&hide_border=true&count_private=true" width="350"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=giane007&theme=midnight-purple&bg_color=0d1117&show_icons=true&hide_border=true&count_private=true" width="350"/>
         <!--Most Used Languages-->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giane007&theme=red&bg_color=0d1117&show_icons=true&hide_border=true&layout=compact&langs_count=10" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giane007&theme=midnight-purple&bg_color=0d1117&show_icons=true&hide_border=true&layout=compact&langs_count=10" width="300" />
         <br>
         <hr>
     </div>
